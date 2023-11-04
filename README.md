@@ -1,11 +1,5 @@
 ### Hi there 👋 Welcome to my profile - I'm Lucas da Silva Gonçalves. Brazilian front-end developer, from Pelotas - Rio Grande do Sul.
-
 ## Summary
-<div style="float: right; margin-left: 20;">
-   <a href="https://github.com/lukesgon/lukesgon/blob/main/octocat-1699059853567.png">
-     <img align="right" margin="20" alt="nanne-gif" width="200";" src="https://github.com/lukesgon/lukesgon/blob/main/octocat-1699059853567.png" title="source: imgur.com" />
-   </a>
-</div>
 - [🧙‍♂️ About me](#-about-me)
 - [🧑‍🎓 Education](#-education)
 - [📓 Training Courses](#-training-courses)
@@ -13,6 +7,11 @@
 - [🥷 My Skills](#-my-skills)
 
 ## 🧙‍♂️ About me
+<div style="float: right; margin-left: 20;">
+   <a href="https://github.com/lukesgon/lukesgon/blob/main/octocat-1699059853567.png">
+     <img align="right" margin="20" alt="nanne-gif" height="150";" src="https://github.com/lukesgon/lukesgon/blob/main/octocat-1699059853567.png" title="source: imgur.com" />
+   </a>
+</div>
 <p>I'm a front-end developer in the learning process. Currently, I am in the midst of a career transition, very excited about seeking new horizons. My current focus is on building a consistent portfolio to pursue my initial opportunities.</p>
 <p>I consider myself an easy-going person, with a strong thirst for learning and a willingness to work in a team.</p>
 
