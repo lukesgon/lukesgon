@@ -45,4 +45,5 @@ Ifood Project Page <a href="https://lukesgon.github.io/ifood-project-page/"><img
 Xbox Game Store <a href="https://lukesgon.github.io/xgstore/"><img align="center" alt="gimp" height="16" width="fit-content" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="xbox project link"></a>
 
 <hr>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lukesgon&bg_color=0D1117&color=0000FF&line=FFFF00&point=0000FF&area=true&hide_border=true&text_color=FFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username={lukesgon}&theme=blue-green)
