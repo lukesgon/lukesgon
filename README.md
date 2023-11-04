@@ -29,7 +29,7 @@
 <p>📒 Proz Tecnologia // Introduction to Programming with a focus on Front-End (in progress): Set/2023 - Present</p>
 <p>📒 Descomplica // Introduction to Web Development (completed): Mar/2023 - Jul/2023</p>
 
-## 📖Learning Today
+## 📖 Learning Today
 <div>
 <a href="http://google.com/"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> HTML 
  <br><br>
