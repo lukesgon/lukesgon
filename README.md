@@ -46,4 +46,7 @@ Xbox Game Store <a href="https://lukesgon.github.io/xgstore/"><img align="center
 
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username={lukesgon}&theme=blue-green)
+
+[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
