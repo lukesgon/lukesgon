@@ -6,6 +6,8 @@
 - [📖 Learning Today](#-learning-today)
 - [🥷 My Skills](#-my-skills)
 - [🎯 Recent Deployed Projects](#-recent-deployed-projects)
+- [💬 Contact me](#-contact-me)
+- [📊 My Git Stats](#-my-git-stats)
 
 ## 🧙‍♂️ About me
 <div style="float: right; margin-left: 20;">
@@ -36,7 +38,7 @@
 </div>
 
 ## 🥷 My Skills
-<img align="center" alt="trello" height="30" width="fit-content" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img align="center" alt="git" height="30" width="fit-content" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="indesign" height="30" width="fit-content" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"> <img align="center" alt="illustrator" height="30" width="fit-content" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img align="center" alt="blender" height="30" width="fit-content" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img align="center" alt="figma" height="30" width="fit-content" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img align="center" alt="trello" height="30" width="fit-content" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img align="center" alt="git" height="30" width="fit-content" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="indesign" height="30" width="fit-content" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"> <img align="center" alt="blender" height="30" width="fit-content" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img align="center" alt="figma" height="30" width="fit-content" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align="center" alt="gimp" height="30" width="fit-content" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 
 ## 🎯 Recent Deployed Projects
@@ -44,9 +46,13 @@ Ifood Project Page <a href="https://lukesgon.github.io/ifood-project-page/"><img
 <br>
 Xbox Game Store <a href="https://lukesgon.github.io/xgstore/"><img align="center" alt="gimp" height="16" width="fit-content" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="xbox project link"></a>
 
-<hr>
+## 💬 Contact me
+<a href="https://api.whatsapp.com/send?phone=5553984688644" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:lucasdasgoncalves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/lucasdasgoncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/lukesgon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/lucasdasgoncalves" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
-
-[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lukesgon/git-stats/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 📊 My Git Stats
+<a href="https://github.com/lukesgon"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lukesgon&theme=transparent" style="display:inline-block"></a>
+<a href="https://github.com/lukesgon"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesgon&layout=donut&theme=transparent" style="display:inline-block"></a>
