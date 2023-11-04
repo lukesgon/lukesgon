@@ -1,14 +1,14 @@
 ### Hi there 👋 welcome to my profile - I'm Lucas da Silva Gonçalves. Brazilian front-end developer, from Pelotas - Rio Grande do Sul.
 
-##Summary
-- [About me](#about-me)
-- [Education](#education)
+## Summary
+- [📖 About me](#about-me)
+- [📚 Education](#education)
 
-## About me
+## 📖 About me
 I'm a front-end developer in the learning process. Currently, I am in the midst of a career transition, very excited about seeking new horizons. My current focus is on building a consistent portfolio to pursue my initial opportunities.
 I consider myself an easy-going person, with a strong thirst for learning and a willingness to work in a team.
 
-## Education
+## 📚 Education
 <p>🎓 Studying front-end development.</p>
 <p>🎓 Degree in Architecture and Urbanism.</p>
 <p>🎓 Graduate as a Building Technician.</p>
