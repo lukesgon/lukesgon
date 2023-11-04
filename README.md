@@ -1,5 +1,6 @@
 ### Hi there 👋 Welcome to my profile - I'm Lucas da Silva Gonçalves. Brazilian front-end developer, from Pelotas - Rio Grande do Sul.
 ## Summary
+
 - [🧙‍♂️ About me](#-about-me)
 - [🧑‍🎓 Education](#-education)
 - [📓 Training Courses](#-training-courses)
