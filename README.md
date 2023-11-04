@@ -26,8 +26,8 @@
 
 ## 📓 Training Courses
 <p>📒 Ada.Tech // Vem ser Tech - Front-End Development (in progress): Out/2023 - Present</p>
-<p>📒 Proz Tecnologia // Introduction to programming with a focus on Front-End (in progress): Set/2023 - Present</p>
-<p>📒 Descomplica // Introdução ao desenvolvimento web (completed): Mar/2023 - Jul/2023</p>
+<p>📒 Proz Tecnologia // Introduction to Programming with a focus on Front-End (in progress): Set/2023 - Present</p>
+<p>📒 Descomplica // Introduction to Web Development (completed): Mar/2023 - Jul/2023</p>
 
 ## 📖Learning Today
 <div>
